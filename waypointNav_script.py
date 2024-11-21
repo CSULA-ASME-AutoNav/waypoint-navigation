@@ -1,6 +1,6 @@
 def main():
     print("Hello World")
-    print("Curry is yummy.")
+    print("Currying Code")
 
 if __name__ == "__main__":
     main()
